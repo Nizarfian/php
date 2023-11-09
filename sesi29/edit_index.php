@@ -47,8 +47,8 @@
                                 Jenis Kelamin
                             </td>
                             <td>
-                                <input type="text" name="nama" class="form-control" required="" autocomplete="off"
-                                    value="<?php echo $jenis_kelamin; ?>">
+                                <input type="text" name="jenis_kelamin" class="form-control" required=""
+                                    autocomplete="off" value="<?php echo $jenis_kelamin; ?>">
                             </td>
                         </tr>
                         <tr>
