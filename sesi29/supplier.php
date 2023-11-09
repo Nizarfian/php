@@ -20,6 +20,8 @@
             </div>
             <div class="col-md-12">
                 <h1> Data Supplier </h1>
+
+                <a href="tambah_supplier.php"> Tambah data</a>
                 <table class="table table-dark">
                     <tr>
                         <td width="300px">Nama</td>
