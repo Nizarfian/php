@@ -20,6 +20,7 @@
             </div>
             <div class="col-md-12">
                 <h1> Data Produk </h1>
+                <a href="tambah_produk.php"> Tambah data</a>
                 <table class="table table-dark">
                     <tr>
                         <td width="300px">Kode Produk</td>
